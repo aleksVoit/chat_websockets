@@ -91,7 +91,6 @@ class Server:
                         await self.send_to_clients(f"{currency_name}: {err}")
 
 
-
 async def main():
     try:
         server = Server()
