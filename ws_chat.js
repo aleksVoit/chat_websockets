@@ -1,6 +1,6 @@
 console.log('Hello world!')
 
-const ws = new WebSocket('wss://vague-dot-aleks-gmbh-8c2fd07b.koyeb.app')
+const ws = new WebSocket('wss://shared-lina-aleks-gmbh-6ca2672a.koyeb.app')
 
 formChat.addEventListener('submit', (e) => {
     e.preventDefault()
